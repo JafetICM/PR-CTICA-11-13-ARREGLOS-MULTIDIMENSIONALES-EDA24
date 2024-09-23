@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\bin\Debug\net6.0-windows\Resumen ventas.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\bin\Debug\net6.0-windows\Resumen ventas.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\bin\Debug\net6.0-windows\Resumen ventas.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\bin\Debug\net6.0-windows\Resumen ventas.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\bin\Debug\net6.0-windows\Resumen ventas.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\obj\Debug\net6.0-windows\Resumen ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\obj\Debug\net6.0-windows\Resumen ventas.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\obj\Debug\net6.0-windows\Resumen ventas.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\obj\Debug\net6.0-windows\Resumen ventas.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\obj\Debug\net6.0-windows\Resumen ventas.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\obj\Debug\net6.0-windows\refint\Resumen ventas.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\obj\Debug\net6.0-windows\Resumen ventas.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\obj\Debug\net6.0-windows\Resumen ventas.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Resumen ventas\obj\Debug\net6.0-windows\ref\Resumen ventas.dll
