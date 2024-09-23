@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\bin\Debug\net8.0-windows\Calificaciones.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\bin\Debug\net8.0-windows\Calificaciones.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\bin\Debug\net8.0-windows\Calificaciones.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\bin\Debug\net8.0-windows\Calificaciones.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\bin\Debug\net8.0-windows\Calificaciones.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0-windows\Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0-windows\Calificaciones.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0-windows\Calificaciones.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0-windows\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0-windows\Calificaciones.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0-windows\refint\Calificaciones.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0-windows\Calificaciones.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0-windows\Calificaciones.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0-windows\ref\Calificaciones.dll

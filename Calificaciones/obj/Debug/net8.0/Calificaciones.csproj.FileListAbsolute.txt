@@ -1,0 +1,4 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0\Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0\Calificaciones.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0\Calificaciones.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Calificaciones\obj\Debug\net8.0\Calificaciones.csproj.CoreCompileInputs.cache
